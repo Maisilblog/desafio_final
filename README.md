@@ -13,7 +13,7 @@ Los "unit test" estan creados en las apps movies y series, en el archivo "test.p
 - Clonar el proyecto y cambiar de rama
 ```bash
 git clone https://github.com/Maisilblog/desafio_final.git
-cd pro_final
+cd desafio_final
 ```
 
 - Crear base de datos a partir de las migraciones
