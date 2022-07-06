@@ -10,7 +10,7 @@ Los "unit test" estan creados en las apps movies y series, en el archivo "test.p
 
 # Instrucciones para ejecutar este proyecto
 
-- Clonar el proyecto y cambiar de rama
+- Clonar el proyecto
 ```bash
 git clone https://github.com/Maisilblog/desafio_final.git
 cd desafio_final
